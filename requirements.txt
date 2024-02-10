@@ -1,0 +1,7 @@
+pygame
+numpy
+pandas
+stable_baselines3
+gym
+Shimmy
+gymnasium
